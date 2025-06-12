@@ -1,0 +1,398 @@
+{
+  "holiday": {
+    "vi": [
+      {
+        "date": "2025-01-01",
+        "title": "Tết Dương lịch",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-02-14",
+        "title": "Ngày Valentine",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-04-10",
+        "title": "Giỗ Tổ Hùng Vương",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-05-01",
+        "title": "Ngày Quốc tế Lao động",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-06-01",
+        "title": "Ngày Quốc tế Thiếu nhi",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-06-28",
+        "title": "Ngày Gia đình Việt Nam",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-10-06",
+        "title": "Tết Trung Thu",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-10-20",
+        "title": "Ngày Phụ nữ Việt Nam",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Ngày Nhà giáo Việt Nam",
+        "content": "Nhất tự vi sư, bán tự vi sư",
+        "author": "Tục Ngữ"
+      },
+      {
+        "date": "2025-12-25",
+        "title": "Lễ Giáng sinh",
+        "isFullTitle": true
+      }
+    ],
+    "zh": [
+      {
+        "date": "2025-01-01",
+        "title": "元旦",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-01-29",
+        "title": "春節假期",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-02-28",
+        "title": "和平紀念日",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-04-04",
+        "title": "清明節",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-05-01",
+        "title": "勞動節",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-05-31",
+        "title": "端午節",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-10-06",
+        "title": "中秋節",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-10-10",
+        "title": "國慶日",
+        "isFullTitle": true
+      },
+      {
+        "date": "2025-12-25",
+        "title": "聖誕節",
+        "isFullTitle": true
+      }
+    ]
+  },
+  "quote": {
+    "vi": [
+      {
+        "content": "Con người có tổ có tông, như cây có cội như sông có nguồn.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Tình thương là sợi dây vô hình buộc chặt con người với nhau.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Chớ để ngày mai những gì có thể làm hôm nay.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Gần mực thì đen, gần đèn thì sáng.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Có công mài sắt, có ngày nên kim.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Thương người như thể thương thân.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Một miếng khi đói bằng một gói khi no.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Học ăn, học nói, học gói, học mở.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Ở hiền gặp lành.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Người có chí thì nên, nhà có nền thì vững.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Giấy rách phải giữ lấy lề.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Khó khăn là dịp để thử thách lòng kiên trì.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Thời gian là vàng bạc.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Đoạn trường ai có qua cầu mới hay.",
+        "author": "Nguyễn Du"
+      },
+      {
+        "content": "Chữ tài liền với chữ tai một vần.",
+        "author": "Nguyễn Du"
+      },
+      {
+        "content": "Người ta là hoa đất.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Cá không ăn muối cá ươn, con cãi cha mẹ trăm đường con hư.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Nhất tự vi sư, bán tự vi sư.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Tấc đất, tấc vàng.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Ngọc càng mài càng sáng, vàng càng luyện càng trong.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Không ai giàu ba họ, không ai khó ba đời.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Thương trường là chiến trường.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Nước chảy đá mòn.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Kiến tha lâu đầy tổ.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Trăm hay không bằng tay quen.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Không vào hang cọp sao bắt được cọp con.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Đầu xuôi đuôi lọt.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Đi một ngày đàng, học một sàng khôn.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Ăn quả nhớ kẻ trồng cây.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Uống nước nhớ nguồn.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Tiên học lễ, hậu học văn.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Lời chào cao hơn mâm cỗ.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Đói cho sạch, rách cho thơm.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Thất bại là mẹ thành công.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Học thầy không tày học bạn.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Lửa thử vàng, gian nan thử sức.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Cần cù bù thông minh.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Không thầy đố mày làm nên.",
+        "author": "Tục ngữ"
+      },
+      {
+        "content": "Thân em như tấm lụa đào, phất phơ giữa chợ biết vào tay ai.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Ra đi mẹ có dặn rằng, làm trai cho đáng nên thân mới về.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Công cha như núi Thái Sơn, nghĩa mẹ như nước trong nguồn chảy ra.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Anh đi anh nhớ quê nhà, nhớ canh rau muống nhớ cà dầm tương.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Chiều chiều ra đứng ngõ sau, trông về quê mẹ ruột đau chín chiều.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Thân em như hạt mưa sa, hạt vào đài các, hạt ra ruộng cày.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Trèo lên cây bưởi hái hoa, bước xuống vườn cà hái nụ tầm xuân.",
+        "author": "Ca dao"
+      },
+      {
+        "content": "Hãy sống như thể bạn sẽ chết vào ngày mai. Học như thể bạn sẽ sống mãi mãi.",
+        "author": "Mahatma Gandhi"
+      },
+      {
+        "content": "Cuộc sống không phải là chờ đợi cơn bão qua đi, mà là học cách nhảy múa dưới mưa.",
+        "author": "Vivian Greene"
+      },
+      {
+        "content": "Đừng bao giờ từ bỏ, bởi vì bạn không bao giờ biết mình sắp thành công đến đâu.",
+        "author": "Thomas Edison"
+      },
+      {
+        "content": "Không phải là những gì bạn có, mà là những gì bạn cho đi mới quyết định giá trị của bạn.",
+        "author": "Winston Churchill"
+      },
+      {
+        "content": "Thành công là khả năng đi từ thất bại này đến thất bại khác mà không mất đi lòng nhiệt huyết.",
+        "author": "Winston Churchill"
+      },
+      {
+        "content": "Chúng ta chỉ có một cuộc đời để sống, nhưng nếu sống tốt, một cuộc đời là đủ.",
+        "author": "Mae West"
+      },
+      {
+        "content": "Hãy làm điều mà bạn yêu thích, và bạn sẽ không phải làm việc một ngày nào trong đời.",
+        "author": "Confucius"
+      },
+      {
+        "content": "Hạnh phúc không phải là điều đã làm sẵn. Nó đến từ những hành động của bạn.",
+        "author": "Dalai Lama"
+      },
+      {
+        "content": "Chúng ta không thể thay đổi hướng gió, nhưng chúng ta có thể điều chỉnh cánh buồm để luôn đi đúng hướng.",
+        "author": "Jimmy Dean"
+      },
+      {
+        "content": "Người ta không phải là những gì họ nói, mà là những gì họ làm.",
+        "author": "Carl Jung"
+      },
+      {
+        "content": "Thành công là một cuộc hành trình, không phải là đích đến.",
+        "author": "Ben Sweetland"
+      },
+      {
+        "content": "Đừng lo lắng về những gì người khác nghĩ, sống cuộc đời của chính bạn.",
+        "author": "Sheryl Sandberg"
+      },
+      {
+        "content": "Thời gian là tiền bạc.",
+        "author": "Benjamin Franklin"
+      },
+      {
+        "content": "Mọi điều đều có thể, chỉ cần bạn dám thử.",
+        "author": "Walt Disney"
+      },
+      {
+        "content": "Bạn chỉ sống một lần, nhưng nếu sống đúng cách, một lần là đủ.",
+        "author": "Mae West"
+      },
+      {
+        "content": "Khi bạn thay đổi cách nhìn nhận về sự vật, sự vật sẽ thay đổi cách nhìn nhận về bạn.",
+        "author": "Wayne Dyer"
+      },
+      {
+        "content": "Người không biết lỗi thì không học được bài học nào từ cuộc sống.",
+        "author": "Albert Einstein"
+      },
+      {
+        "content": "Cách tốt nhất để dự đoán tương lai là tạo ra nó.",
+        "author": "Abraham Lincoln"
+      },
+      {
+        "content": "Hãy bắt đầu từ những điều bạn có thể làm, với những gì bạn có, ngay bây giờ.",
+        "author": "Theodore Roosevelt"
+      },
+      {
+        "content": "Không có gì là không thể, từ những điều nhỏ nhất bạn có thể làm nên những điều vĩ đại.",
+        "author": "Nelson Mandela"
+      },
+      {
+        "content": "Làm những điều bạn yêu thích và thành công sẽ tự đến.",
+        "author": "Albert Schweitzer"
+      }
+    ],
+    "zh": [
+      {
+        "content": "愛是無形的繩索，將人們緊密聯繫在一起。",
+        "author": "民間諺語"
+      },
+      {
+        "content": "不要把今天能做的事情拖到明天。",
+        "author": "諺語"
+      },
+      {
+        "content": "近墨者黑，近朱者赤。",
+        "author": "諺語"
+      },
+      {
+        "content": "只要功夫深，鐵杵磨成針。",
+        "author": "諺語"
+      }
+    ]
+  }
+}
