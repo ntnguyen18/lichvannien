@@ -53,7 +53,7 @@
         "isFullTitle": true
       }
     ],
-    "zh": [
+    "zh_tw": [
       {
         "date": "2025-01-01",
         "title": "元旦",
@@ -376,7 +376,7 @@
         "author": "Albert Schweitzer"
       }
     ],
-    "zh": [
+    "zh_tw": [
       {
         "content": "愛是無形的繩索，將人們緊密聯繫在一起。",
         "author": "民間諺語"
@@ -401,7 +401,7 @@
       "2": "Tết đến trăm điều như ý – Xuân về vạn sự thành công.",
       "3": "Xuân an khang thịnh vượng, năm mới vạn sự như ý."
     },
-    "zh": {
+    "zh_tw": {
       "1": "梅花盛開迎新年，桃花爭艷迎春到。",
       "2": "新年百事如意，春節萬事成功。",
       "3": "春節健康幸福，新年萬事如意。"
