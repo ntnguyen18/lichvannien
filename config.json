@@ -394,5 +394,17 @@
         "author": "諺語"
       }
     ]
+  },
+  "tet_wishes": {
+    "vi": {
+      "1": "Mai vàng nở rộ mừng năm mới – Đào hồng khoe sắc đón xuân sang.",
+      "2": "Tết đến trăm điều như ý – Xuân về vạn sự thành công.",
+      "3": "Xuân an khang thịnh vượng, năm mới vạn sự như ý."
+    },
+    "zh": {
+      "1": "梅花盛開迎新年，桃花爭艷迎春到。",
+      "2": "新年百事如意，春節萬事成功。",
+      "3": "春節健康幸福，新年萬事如意。"
+    }
   }
 }
