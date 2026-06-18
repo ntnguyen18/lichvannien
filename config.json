@@ -52,7 +52,12 @@
         "title": "Lễ Giáng sinh",
         "content": "Vinh danh thiên chúa trên trời, bình an dưới thế cho người thiện tâm",
         "isFullTitle": true
-      }
+      },
+      {
+        "date": "2026-06-19",
+        "title": "Tết Đoan Ngọ",
+        "isFullTitle": true
+      },
     ],
     "zh_tw": [
       {
