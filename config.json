@@ -4,12 +4,14 @@
       {
         "date": "2025-01-01",
         "title": "Tết Dương lịch",
-        "isFullTitle": true
+        "isFullTitle": true,
+        "repeatYearly": true
       },
       {
         "date": "2025-02-14",
         "title": "Ngày Valentine",
-        "isFullTitle": true
+        "isFullTitle": true,
+        "repeatYearly": true
       },
       {
         "date": "2026-04-26",
@@ -19,17 +21,20 @@
       {
         "date": "2025-05-01",
         "title": "Ngày Quốc tế Lao động",
-        "isFullTitle": true
+        "isFullTitle": true,
+        "repeatYearly": true
       },
       {
         "date": "2025-06-01",
         "title": "Ngày Quốc tế Thiếu nhi",
-        "isFullTitle": true
+        "isFullTitle": true,
+        "repeatYearly": true
       },
       {
         "date": "2025-06-28",
         "title": "Ngày Gia đình Việt Nam",
-        "isFullTitle": true
+        "isFullTitle": true,
+        "repeatYearly": true
       },
       {
         "date": "2025-10-06",
@@ -39,19 +44,22 @@
       {
         "date": "2025-10-20",
         "title": "Ngày Phụ nữ Việt Nam",
-        "isFullTitle": true
+        "isFullTitle": true,
+        "repeatYearly": true
       },
       {
         "date": "2025-11-20",
         "title": "Ngày Nhà giáo Việt Nam",
         "content": "Nhất tự vi sư, bán tự vi sư",
-        "author": "Tục Ngữ"
+        "author": "Tục Ngữ",
+        "repeatYearly": true
       },
       {
         "date": "2025-12-25",
         "title": "Lễ Giáng sinh",
         "content": "Vinh danh thiên chúa trên trời, bình an dưới thế cho người thiện tâm",
-        "isFullTitle": true
+        "isFullTitle": true,
+        "repeatYearly": true
       },
       {
         "date": "2026-06-19",
@@ -59,11 +67,6 @@
         "isFullTitle": true
       },
       {
-        "date": "2026-06-19",
-        "title": "Tết Đoan Ngọ",
-        "isFullTitle": true
-      },
-        {
         "date": "2024-05-05",
         "title": "Tết Đoan Ngọ",
         "isFullTitle": true,
